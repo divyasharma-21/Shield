@@ -1,0 +1,18 @@
+{
+  "model_name": "sentrymesh_binary_tfidf_v4",
+  "dataset_path": "D:\\SentryMesh\\sentrymesh\\data\\processed\\sentrymesh_binary_v4.csv",
+  "total_samples": 1019,
+  "training_samples": 652,
+  "validation_samples": 163,
+  "testing_samples": 204,
+  "selected_suspicious_threshold": 0.4,
+  "threshold_selection": "validation_f2_maximization_with_95_percent_suspicious_recall_minimum",
+  "accuracy": 0.9558823529411765,
+  "weighted_precision": 0.9580395943988411,
+  "weighted_recall": 0.9558823529411765,
+  "weighted_f1": 0.9558303461880819,
+  "labels": [
+    "legitimate",
+    "suspicious"
+  ]
+}

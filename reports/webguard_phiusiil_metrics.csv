@@ -1,0 +1,2 @@
+dataset,train_rows,test_rows,features,accuracy,macro_f1,weighted_f1
+UCI_PhiUSIIL,189155,46215,50,0.9998485340257492,0.9998441722578286,0.9998485300769164

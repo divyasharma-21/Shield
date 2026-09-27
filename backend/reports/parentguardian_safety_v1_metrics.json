@@ -1,0 +1,24 @@
+{
+  "model_name": "parentguardian_safety_v1",
+  "samples": 2829,
+  "test_samples": 623,
+  "macro_f1": 1.0,
+  "classes": [
+    "benign",
+    "harassment",
+    "threat",
+    "coercion_blackmail",
+    "secrecy_isolation",
+    "unsafe_image_request",
+    "location_meetup_risk",
+    "financial_scam",
+    "remote_access_social_engineering",
+    "grooming_risk_pattern"
+  ],
+  "source_counts": {
+    "real_benign": 2279,
+    "synthetic_augmented": 450,
+    "sentrymesh_reviewed": 100
+  },
+  "note": "Synthetic safety augmentation is explicitly labeled; no diagnosis or intent inference is claimed."
+}

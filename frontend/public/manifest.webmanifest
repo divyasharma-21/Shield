@@ -1,0 +1,17 @@
+{
+  "name": "SentryMesh Guardian — ParentCall Guardian",
+  "short_name": "SentryMesh",
+  "description": "Privacy-first scam shield helping families verify suspicious calls and messages.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070B14",
+  "theme_color": "#06B6D4",
+  "icons": [
+    {
+      "src": "/sentrymesh-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "legitimate": {
+    "legitimate": 40,
+    "phishing": 0,
+    "payment_or_credential_scam": 0,
+    "authority_impersonation_scam": 0,
+    "remote_access_scam": 0,
+    "UPI_QR_scam": 0,
+    "fake_payment_scam": 0,
+    "other_suspicious": 0
+  },
+  "payment_or_credential_scam": {
+    "payment_or_credential_scam": 6,
+    "legitimate": 0,
+    "phishing": 0,
+    "authority_impersonation_scam": 0,
+    "remote_access_scam": 0,
+    "UPI_QR_scam": 0,
+    "fake_payment_scam": 0,
+    "other_suspicious": 0
+  },
+  "other_suspicious": {
+    "other_suspicious": 2,
+    "legitimate": 0,
+    "phishing": 0,
+    "payment_or_credential_scam": 0,
+    "authority_impersonation_scam": 0,
+    "remote_access_scam": 0,
+    "UPI_QR_scam": 0,
+    "fake_payment_scam": 0
+  },
+  "fake_payment_scam": {
+    "fake_payment_scam": 7,
+    "legitimate": 0,
+    "phishing": 0,
+    "payment_or_credential_scam": 0,
+    "authority_impersonation_scam": 0,
+    "remote_access_scam": 0,
+    "UPI_QR_scam": 0,
+    "other_suspicious": 0
+  },
+  "remote_access_scam": {
+    "remote_access_scam": 10,
+    "legitimate": 0,
+    "phishing": 0,
+    "payment_or_credential_scam": 0,
+    "authority_impersonation_scam": 0,
+    "UPI_QR_scam": 0,
+    "fake_payment_scam": 0,
+    "other_suspicious": 0
+  },
+  "authority_impersonation_scam": {
+    "authority_impersonation_scam": 10,
+    "legitimate": 0,
+    "phishing": 0,
+    "payment_or_credential_scam": 0,
+    "remote_access_scam": 0,
+    "UPI_QR_scam": 0,
+    "fake_payment_scam": 0,
+    "other_suspicious": 0
+  },
+  "phishing": {
+    "phishing": 2,
+    "legitimate": 0,
+    "payment_or_credential_scam": 0,
+    "authority_impersonation_scam": 0,
+    "remote_access_scam": 0,
+    "UPI_QR_scam": 0,
+    "fake_payment_scam": 0,
+    "other_suspicious": 0
+  },
+  "UPI_QR_scam": {
+    "UPI_QR_scam": 7,
+    "legitimate": 0,
+    "phishing": 0,
+    "payment_or_credential_scam": 0,
+    "authority_impersonation_scam": 0,
+    "remote_access_scam": 0,
+    "fake_payment_scam": 0,
+    "other_suspicious": 0
+  }
+}

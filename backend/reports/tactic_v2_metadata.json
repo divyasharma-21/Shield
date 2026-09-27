@@ -1,0 +1,19 @@
+{
+  "model_name": "sentrymesh_tactic_v2",
+  "samples": 4800,
+  "source": "sentrymesh_tactics.csv + labeled augmentation",
+  "tactics": [
+    "authority_impersonation",
+    "urgency",
+    "fear_or_threat",
+    "secrecy",
+    "isolation",
+    "payment_request",
+    "otp_request",
+    "credential_request",
+    "remote_access_request",
+    "screen_share_request",
+    "upi_collect_request"
+  ],
+  "warning": "augmentation is not independent real-world validation"
+}

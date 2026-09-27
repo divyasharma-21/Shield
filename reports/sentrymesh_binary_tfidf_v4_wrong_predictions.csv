@@ -1,0 +1,10 @@
+text,actual_label,predicted_label,suspicious_probability,selected_threshold,safety_level,correct
+"Customer place, i wil cal u sir.",legitimate,suspicious,0.4858050334380321,0.4,suspicious_needs_verification,False
+"Come to mu, we're sorting out our narcotics situation",legitimate,suspicious,0.40233652625134264,0.4,suspicious_needs_verification,False
+Why she wants to talk to me,legitimate,suspicious,0.44014388434295754,0.4,suspicious_needs_verification,False
+Pls speak to that customer machan.,legitimate,suspicious,0.4200876012261942,0.4,suspicious_needs_verification,False
+"LookAtMe!: Thanks for your purchase of a video clip from LookAtMe!, you've been charged 35p. Think you can do better? Why not send a video in a MMSto 32323.",suspicious,legitimate,0.3832928072972512,0.4,uncertain_needs_verification,False
+The office support team has received your ticket and will contact you through email.,legitimate,suspicious,0.4652107028926301,0.4,suspicious_needs_verification,False
+At 4. Let's go to bill millers,legitimate,suspicious,0.44349869212456605,0.4,suspicious_needs_verification,False
+Example Bank will never ask you to reveal a verification code through a phone call or message.,legitimate,suspicious,0.4896675164040454,0.4,suspicious_needs_verification,False
+Test Telecom security advice: Never share an OTP or SIM-verification code with anyone.,legitimate,suspicious,0.4648007473175503,0.4,suspicious_needs_verification,False

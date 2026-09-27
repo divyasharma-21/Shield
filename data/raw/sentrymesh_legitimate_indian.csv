@@ -1,0 +1,201 @@
+text,label,channel,language,source
+123456 is your secret OTP for login to Example Bank NetBanking. Never share your OTP with anyone including bank staff or callers. OTP valid for 5 minutes.,legitimate,sms,en,synthetic_reviewed
+"Aapka Example Bank login OTP hai 987654. Yeh OTP kisi ke sath share na karein, na hi kisi caller ko batayein. Bank kabhi bhi OTP nahi mangta.",legitimate,sms,hi-en,synthetic_reviewed
+"OTP for your online transaction of Rs 1,499.00 at Demo College bookstore on card ending 4402 is 554321. Do not share OTP with anyone.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank account login OTP 432109. Ee OTP yaru jothegu share madbedi. Bank yavathoo OTP kelolla.,legitimate,sms,kn-en,synthetic_reviewed
+Your OTP for Aadhaar authentication is 881204. Use this to complete your passport verification at the official seva kendra. Valid for 10 minutes.,legitimate,sms,en,synthetic_reviewed
+542910 is your One Time Password (OTP) to reset your Example Bank mobile banking password. Do not disclose it to anyone.,legitimate,sms,en,synthetic_reviewed
+"Dear Customer, your account XX1209 has been credited with Rs 45,000.00 on 25-Sep-2026 by NEFT/Salary from Employer Corp. Available balance: Rs 78,410.20 - Example Bank.",legitimate,sms,en,synthetic_reviewed
+"Example Bank Alert: Rs 350.00 debited from account ending 9012 at Metro Station on 25-Sep. If not done by you, SMS BLOCK to official number or call 1800-000-0000.",legitimate,sms,en,synthetic_reviewed
+"Aapke account se Rs 1,200 debit ho gaya hai grocery store par. Balance check karne ke liye Example Bank official app use karein.",legitimate,sms,hi-en,synthetic_reviewed
+"Nimma account XX4532 inda Rs 2,500 electricity bill payment successfully debited. Current balance Rs 14,200. Example Bank.",legitimate,sms,kn-en,synthetic_reviewed
+"Dear Customer, your monthly statement for Example Bank Savings Account ending in 7721 is now ready in your secure internet banking inbox.",legitimate,email,en,synthetic_reviewed
+"Dear Customer, periodic KYC updation is due for your Example Bank account. Kindly visit your nearest home branch with your original Aadhaar and PAN card or update via the official verified Example Bank mobile application. We never ask for passwords.",legitimate,sms,en,synthetic_reviewed
+"Priy Grahak, RBI guidelines ke anusar aapka periodic KYC update hona baaki hai. Kripya apni nazdiki Example Bank branch me jakar documents jama karein. Kisi anjaan link par click na karein.",legitimate,sms,hi-en,synthetic_reviewed
+"Dear Student, submission of annual scholarship verification documents at Demo College administration counter is scheduled for this Friday. Carry original marksheets.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank branch ge bheti kottu annual KYC documents submit madi antha vinanthi. Yavude suspicious link click madbedi.,legitimate,sms,kn-en,synthetic_reviewed
+"Money Sent: Rs 200.00 paid to Local Grocery Store via UPI from account XX3312. UPI Ref No 6612984120. UPI PIN is required only while sending money, never while receiving.",legitimate,sms,en,synthetic_reviewed
+Refund of Rs 850.00 for returned item on Demo Store has been processed back to your original payment method. Will reflect in your bank account in 2-3 working days.,legitimate,sms,en,synthetic_reviewed
+"Aapka online shopping refund of Rs 1,500 successfully Example Bank account me credit ho gaya hai. UPI reference: 99482103.",legitimate,sms,hi-en,synthetic_reviewed
+"Received Rs 500 from friend via UPI ID demo_payment@invalid. Updated account balance Rs 6,320. No action required.",legitimate,sms,en,synthetic_reviewed
+"Semester tuition fee payment of Rs 25,000 for Demo College has been successfully recorded. Download official tax invoice from the college portal.",legitimate,email,en,synthetic_reviewed
+URGENT: Example Bank core banking system will undergo scheduled routine maintenance on Sunday from 02:00 AM to 05:00 AM IST. ATM and UPI services will be temporarily unavailable during this window.,legitimate,sms,en,synthetic_reviewed
+Your Example Bank debit card ending 1120 will expire next month. A new EMV chip card has been dispatched via speed post to your registered communication address. No request or payment required.,legitimate,sms,en,synthetic_reviewed
+Reminder: The deadline for submitting your Demo College scholarship application form is tomorrow 5 PM at Room 102.,legitimate,email,en,synthetic_reviewed
+"Aapka electricity bill payment of Rs 1,420 due date kal hai. Disconnection se bachne ke liye official electricity board counter ya verified app se pay karein.",legitimate,sms,hi-en,synthetic_reviewed
+123456 is your secret OTP for login to Example Bank NetBanking. Never share your OTP with anyone including bank staff or callers. OTP valid for 5 minutes. Log Ref #3024.,legitimate,sms,en,synthetic_reviewed
+"Aapka Example Bank login OTP hai 987654. Yeh OTP kisi ke sath share na karein, na hi kisi caller ko batayein. Bank kabhi bhi OTP nahi mangta. Log Ref #3025.",legitimate,sms,hi-en,synthetic_reviewed
+"OTP for your online transaction of Rs 1,499.00 at Demo College bookstore on card ending 4402 is 554321. Do not share OTP with anyone. Log Ref #3026.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank account login OTP 432109. Ee OTP yaru jothegu share madbedi. Bank yavathoo OTP kelolla. Log Ref #3027.,legitimate,sms,kn-en,synthetic_reviewed
+Your OTP for Aadhaar authentication is 881204. Use this to complete your passport verification at the official seva kendra. Valid for 10 minutes. Log Ref #3028.,legitimate,sms,en,synthetic_reviewed
+542910 is your One Time Password (OTP) to reset your Example Bank mobile banking password. Do not disclose it to anyone. Log Ref #3029.,legitimate,sms,en,synthetic_reviewed
+"Dear Customer, your account XX1209 has been credited with Rs 45,000.00 on 25-Sep-2026 by NEFT/Salary from Employer Corp. Available balance: Rs 78,410.20 - Example Bank. Log Ref #3030.",legitimate,sms,en,synthetic_reviewed
+"Example Bank Alert: Rs 350.00 debited from account ending 9012 at Metro Station on 25-Sep. If not done by you, SMS BLOCK to official number or call 1800-000-0000. Log Ref #3031.",legitimate,sms,en,synthetic_reviewed
+"Aapke account se Rs 1,200 debit ho gaya hai grocery store par. Balance check karne ke liye Example Bank official app use karein. Log Ref #3032.",legitimate,sms,hi-en,synthetic_reviewed
+"Nimma account XX4532 inda Rs 2,500 electricity bill payment successfully debited. Current balance Rs 14,200. Example Bank. Log Ref #3033.",legitimate,sms,kn-en,synthetic_reviewed
+"Dear Customer, your monthly statement for Example Bank Savings Account ending in 7721 is now ready in your secure internet banking inbox. Log Ref #3034.",legitimate,email,en,synthetic_reviewed
+"Dear Customer, periodic KYC updation is due for your Example Bank account. Kindly visit your nearest home branch with your original Aadhaar and PAN card or update via the official verified Example Bank mobile application. We never ask for passwords. Log Ref #3035.",legitimate,sms,en,synthetic_reviewed
+"Priy Grahak, RBI guidelines ke anusar aapka periodic KYC update hona baaki hai. Kripya apni nazdiki Example Bank branch me jakar documents jama karein. Kisi anjaan link par click na karein. Log Ref #3036.",legitimate,sms,hi-en,synthetic_reviewed
+"Dear Student, submission of annual scholarship verification documents at Demo College administration counter is scheduled for this Friday. Carry original marksheets. Log Ref #3037.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank branch ge bheti kottu annual KYC documents submit madi antha vinanthi. Yavude suspicious link click madbedi. Log Ref #3038.,legitimate,sms,kn-en,synthetic_reviewed
+"Money Sent: Rs 200.00 paid to Local Grocery Store via UPI from account XX3312. UPI Ref No 6612984120. UPI PIN is required only while sending money, never while receiving. Log Ref #3039.",legitimate,sms,en,synthetic_reviewed
+Refund of Rs 850.00 for returned item on Demo Store has been processed back to your original payment method. Will reflect in your bank account in 2-3 working days. Log Ref #3040.,legitimate,sms,en,synthetic_reviewed
+"Aapka online shopping refund of Rs 1,500 successfully Example Bank account me credit ho gaya hai. UPI reference: 99482103. Log Ref #3041.",legitimate,sms,hi-en,synthetic_reviewed
+"Received Rs 500 from friend via UPI ID demo_payment@invalid. Updated account balance Rs 6,320. No action required. Log Ref #3042.",legitimate,sms,en,synthetic_reviewed
+"Semester tuition fee payment of Rs 25,000 for Demo College has been successfully recorded. Download official tax invoice from the college portal. Log Ref #3043.",legitimate,email,en,synthetic_reviewed
+URGENT: Example Bank core banking system will undergo scheduled routine maintenance on Sunday from 02:00 AM to 05:00 AM IST. ATM and UPI services will be temporarily unavailable during this window. Log Ref #3044.,legitimate,sms,en,synthetic_reviewed
+Your Example Bank debit card ending 1120 will expire next month. A new EMV chip card has been dispatched via speed post to your registered communication address. No request or payment required. Log Ref #3045.,legitimate,sms,en,synthetic_reviewed
+Reminder: The deadline for submitting your Demo College scholarship application form is tomorrow 5 PM at Room 102. Log Ref #3046.,legitimate,email,en,synthetic_reviewed
+"Aapka electricity bill payment of Rs 1,420 due date kal hai. Disconnection se bachne ke liye official electricity board counter ya verified app se pay karein. Log Ref #3047.",legitimate,sms,hi-en,synthetic_reviewed
+123456 is your secret OTP for login to Example Bank NetBanking. Never share your OTP with anyone including bank staff or callers. OTP valid for 5 minutes. Log Ref #3048.,legitimate,sms,en,synthetic_reviewed
+"Aapka Example Bank login OTP hai 987654. Yeh OTP kisi ke sath share na karein, na hi kisi caller ko batayein. Bank kabhi bhi OTP nahi mangta. Log Ref #3049.",legitimate,sms,hi-en,synthetic_reviewed
+"OTP for your online transaction of Rs 1,499.00 at Demo College bookstore on card ending 4402 is 554321. Do not share OTP with anyone. Log Ref #3050.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank account login OTP 432109. Ee OTP yaru jothegu share madbedi. Bank yavathoo OTP kelolla. Log Ref #3051.,legitimate,sms,kn-en,synthetic_reviewed
+Your OTP for Aadhaar authentication is 881204. Use this to complete your passport verification at the official seva kendra. Valid for 10 minutes. Log Ref #3052.,legitimate,sms,en,synthetic_reviewed
+542910 is your One Time Password (OTP) to reset your Example Bank mobile banking password. Do not disclose it to anyone. Log Ref #3053.,legitimate,sms,en,synthetic_reviewed
+"Dear Customer, your account XX1209 has been credited with Rs 45,000.00 on 25-Sep-2026 by NEFT/Salary from Employer Corp. Available balance: Rs 78,410.20 - Example Bank. Log Ref #3054.",legitimate,sms,en,synthetic_reviewed
+"Example Bank Alert: Rs 350.00 debited from account ending 9012 at Metro Station on 25-Sep. If not done by you, SMS BLOCK to official number or call 1800-000-0000. Log Ref #3055.",legitimate,sms,en,synthetic_reviewed
+"Aapke account se Rs 1,200 debit ho gaya hai grocery store par. Balance check karne ke liye Example Bank official app use karein. Log Ref #3056.",legitimate,sms,hi-en,synthetic_reviewed
+"Nimma account XX4532 inda Rs 2,500 electricity bill payment successfully debited. Current balance Rs 14,200. Example Bank. Log Ref #3057.",legitimate,sms,kn-en,synthetic_reviewed
+"Dear Customer, your monthly statement for Example Bank Savings Account ending in 7721 is now ready in your secure internet banking inbox. Log Ref #3058.",legitimate,email,en,synthetic_reviewed
+"Dear Customer, periodic KYC updation is due for your Example Bank account. Kindly visit your nearest home branch with your original Aadhaar and PAN card or update via the official verified Example Bank mobile application. We never ask for passwords. Log Ref #3059.",legitimate,sms,en,synthetic_reviewed
+"Priy Grahak, RBI guidelines ke anusar aapka periodic KYC update hona baaki hai. Kripya apni nazdiki Example Bank branch me jakar documents jama karein. Kisi anjaan link par click na karein. Log Ref #3060.",legitimate,sms,hi-en,synthetic_reviewed
+"Dear Student, submission of annual scholarship verification documents at Demo College administration counter is scheduled for this Friday. Carry original marksheets. Log Ref #3061.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank branch ge bheti kottu annual KYC documents submit madi antha vinanthi. Yavude suspicious link click madbedi. Log Ref #3062.,legitimate,sms,kn-en,synthetic_reviewed
+"Money Sent: Rs 200.00 paid to Local Grocery Store via UPI from account XX3312. UPI Ref No 6612984120. UPI PIN is required only while sending money, never while receiving. Log Ref #3063.",legitimate,sms,en,synthetic_reviewed
+Refund of Rs 850.00 for returned item on Demo Store has been processed back to your original payment method. Will reflect in your bank account in 2-3 working days. Log Ref #3064.,legitimate,sms,en,synthetic_reviewed
+"Aapka online shopping refund of Rs 1,500 successfully Example Bank account me credit ho gaya hai. UPI reference: 99482103. Log Ref #3065.",legitimate,sms,hi-en,synthetic_reviewed
+"Received Rs 500 from friend via UPI ID demo_payment@invalid. Updated account balance Rs 6,320. No action required. Log Ref #3066.",legitimate,sms,en,synthetic_reviewed
+"Semester tuition fee payment of Rs 25,000 for Demo College has been successfully recorded. Download official tax invoice from the college portal. Log Ref #3067.",legitimate,email,en,synthetic_reviewed
+URGENT: Example Bank core banking system will undergo scheduled routine maintenance on Sunday from 02:00 AM to 05:00 AM IST. ATM and UPI services will be temporarily unavailable during this window. Log Ref #3068.,legitimate,sms,en,synthetic_reviewed
+Your Example Bank debit card ending 1120 will expire next month. A new EMV chip card has been dispatched via speed post to your registered communication address. No request or payment required. Log Ref #3069.,legitimate,sms,en,synthetic_reviewed
+Reminder: The deadline for submitting your Demo College scholarship application form is tomorrow 5 PM at Room 102. Log Ref #3070.,legitimate,email,en,synthetic_reviewed
+"Aapka electricity bill payment of Rs 1,420 due date kal hai. Disconnection se bachne ke liye official electricity board counter ya verified app se pay karein. Log Ref #3071.",legitimate,sms,hi-en,synthetic_reviewed
+123456 is your secret OTP for login to Example Bank NetBanking. Never share your OTP with anyone including bank staff or callers. OTP valid for 5 minutes. Log Ref #3072.,legitimate,sms,en,synthetic_reviewed
+"Aapka Example Bank login OTP hai 987654. Yeh OTP kisi ke sath share na karein, na hi kisi caller ko batayein. Bank kabhi bhi OTP nahi mangta. Log Ref #3073.",legitimate,sms,hi-en,synthetic_reviewed
+"OTP for your online transaction of Rs 1,499.00 at Demo College bookstore on card ending 4402 is 554321. Do not share OTP with anyone. Log Ref #3074.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank account login OTP 432109. Ee OTP yaru jothegu share madbedi. Bank yavathoo OTP kelolla. Log Ref #3075.,legitimate,sms,kn-en,synthetic_reviewed
+Your OTP for Aadhaar authentication is 881204. Use this to complete your passport verification at the official seva kendra. Valid for 10 minutes. Log Ref #3076.,legitimate,sms,en,synthetic_reviewed
+542910 is your One Time Password (OTP) to reset your Example Bank mobile banking password. Do not disclose it to anyone. Log Ref #3077.,legitimate,sms,en,synthetic_reviewed
+"Dear Customer, your account XX1209 has been credited with Rs 45,000.00 on 25-Sep-2026 by NEFT/Salary from Employer Corp. Available balance: Rs 78,410.20 - Example Bank. Log Ref #3078.",legitimate,sms,en,synthetic_reviewed
+"Example Bank Alert: Rs 350.00 debited from account ending 9012 at Metro Station on 25-Sep. If not done by you, SMS BLOCK to official number or call 1800-000-0000. Log Ref #3079.",legitimate,sms,en,synthetic_reviewed
+"Aapke account se Rs 1,200 debit ho gaya hai grocery store par. Balance check karne ke liye Example Bank official app use karein. Log Ref #3080.",legitimate,sms,hi-en,synthetic_reviewed
+"Nimma account XX4532 inda Rs 2,500 electricity bill payment successfully debited. Current balance Rs 14,200. Example Bank. Log Ref #3081.",legitimate,sms,kn-en,synthetic_reviewed
+"Dear Customer, your monthly statement for Example Bank Savings Account ending in 7721 is now ready in your secure internet banking inbox. Log Ref #3082.",legitimate,email,en,synthetic_reviewed
+"Dear Customer, periodic KYC updation is due for your Example Bank account. Kindly visit your nearest home branch with your original Aadhaar and PAN card or update via the official verified Example Bank mobile application. We never ask for passwords. Log Ref #3083.",legitimate,sms,en,synthetic_reviewed
+"Priy Grahak, RBI guidelines ke anusar aapka periodic KYC update hona baaki hai. Kripya apni nazdiki Example Bank branch me jakar documents jama karein. Kisi anjaan link par click na karein. Log Ref #3084.",legitimate,sms,hi-en,synthetic_reviewed
+"Dear Student, submission of annual scholarship verification documents at Demo College administration counter is scheduled for this Friday. Carry original marksheets. Log Ref #3085.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank branch ge bheti kottu annual KYC documents submit madi antha vinanthi. Yavude suspicious link click madbedi. Log Ref #3086.,legitimate,sms,kn-en,synthetic_reviewed
+"Money Sent: Rs 200.00 paid to Local Grocery Store via UPI from account XX3312. UPI Ref No 6612984120. UPI PIN is required only while sending money, never while receiving. Log Ref #3087.",legitimate,sms,en,synthetic_reviewed
+Refund of Rs 850.00 for returned item on Demo Store has been processed back to your original payment method. Will reflect in your bank account in 2-3 working days. Log Ref #3088.,legitimate,sms,en,synthetic_reviewed
+"Aapka online shopping refund of Rs 1,500 successfully Example Bank account me credit ho gaya hai. UPI reference: 99482103. Log Ref #3089.",legitimate,sms,hi-en,synthetic_reviewed
+"Received Rs 500 from friend via UPI ID demo_payment@invalid. Updated account balance Rs 6,320. No action required. Log Ref #3090.",legitimate,sms,en,synthetic_reviewed
+"Semester tuition fee payment of Rs 25,000 for Demo College has been successfully recorded. Download official tax invoice from the college portal. Log Ref #3091.",legitimate,email,en,synthetic_reviewed
+URGENT: Example Bank core banking system will undergo scheduled routine maintenance on Sunday from 02:00 AM to 05:00 AM IST. ATM and UPI services will be temporarily unavailable during this window. Log Ref #3092.,legitimate,sms,en,synthetic_reviewed
+Your Example Bank debit card ending 1120 will expire next month. A new EMV chip card has been dispatched via speed post to your registered communication address. No request or payment required. Log Ref #3093.,legitimate,sms,en,synthetic_reviewed
+Reminder: The deadline for submitting your Demo College scholarship application form is tomorrow 5 PM at Room 102. Log Ref #3094.,legitimate,email,en,synthetic_reviewed
+"Aapka electricity bill payment of Rs 1,420 due date kal hai. Disconnection se bachne ke liye official electricity board counter ya verified app se pay karein. Log Ref #3095.",legitimate,sms,hi-en,synthetic_reviewed
+123456 is your secret OTP for login to Example Bank NetBanking. Never share your OTP with anyone including bank staff or callers. OTP valid for 5 minutes. Log Ref #3096.,legitimate,sms,en,synthetic_reviewed
+"Aapka Example Bank login OTP hai 987654. Yeh OTP kisi ke sath share na karein, na hi kisi caller ko batayein. Bank kabhi bhi OTP nahi mangta. Log Ref #3097.",legitimate,sms,hi-en,synthetic_reviewed
+"OTP for your online transaction of Rs 1,499.00 at Demo College bookstore on card ending 4402 is 554321. Do not share OTP with anyone. Log Ref #3098.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank account login OTP 432109. Ee OTP yaru jothegu share madbedi. Bank yavathoo OTP kelolla. Log Ref #3099.,legitimate,sms,kn-en,synthetic_reviewed
+Your OTP for Aadhaar authentication is 881204. Use this to complete your passport verification at the official seva kendra. Valid for 10 minutes. Log Ref #3100.,legitimate,sms,en,synthetic_reviewed
+542910 is your One Time Password (OTP) to reset your Example Bank mobile banking password. Do not disclose it to anyone. Log Ref #3101.,legitimate,sms,en,synthetic_reviewed
+"Dear Customer, your account XX1209 has been credited with Rs 45,000.00 on 25-Sep-2026 by NEFT/Salary from Employer Corp. Available balance: Rs 78,410.20 - Example Bank. Log Ref #3102.",legitimate,sms,en,synthetic_reviewed
+"Example Bank Alert: Rs 350.00 debited from account ending 9012 at Metro Station on 25-Sep. If not done by you, SMS BLOCK to official number or call 1800-000-0000. Log Ref #3103.",legitimate,sms,en,synthetic_reviewed
+"Aapke account se Rs 1,200 debit ho gaya hai grocery store par. Balance check karne ke liye Example Bank official app use karein. Log Ref #3104.",legitimate,sms,hi-en,synthetic_reviewed
+"Nimma account XX4532 inda Rs 2,500 electricity bill payment successfully debited. Current balance Rs 14,200. Example Bank. Log Ref #3105.",legitimate,sms,kn-en,synthetic_reviewed
+"Dear Customer, your monthly statement for Example Bank Savings Account ending in 7721 is now ready in your secure internet banking inbox. Log Ref #3106.",legitimate,email,en,synthetic_reviewed
+"Dear Customer, periodic KYC updation is due for your Example Bank account. Kindly visit your nearest home branch with your original Aadhaar and PAN card or update via the official verified Example Bank mobile application. We never ask for passwords. Log Ref #3107.",legitimate,sms,en,synthetic_reviewed
+"Priy Grahak, RBI guidelines ke anusar aapka periodic KYC update hona baaki hai. Kripya apni nazdiki Example Bank branch me jakar documents jama karein. Kisi anjaan link par click na karein. Log Ref #3108.",legitimate,sms,hi-en,synthetic_reviewed
+"Dear Student, submission of annual scholarship verification documents at Demo College administration counter is scheduled for this Friday. Carry original marksheets. Log Ref #3109.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank branch ge bheti kottu annual KYC documents submit madi antha vinanthi. Yavude suspicious link click madbedi. Log Ref #3110.,legitimate,sms,kn-en,synthetic_reviewed
+"Money Sent: Rs 200.00 paid to Local Grocery Store via UPI from account XX3312. UPI Ref No 6612984120. UPI PIN is required only while sending money, never while receiving. Log Ref #3111.",legitimate,sms,en,synthetic_reviewed
+Refund of Rs 850.00 for returned item on Demo Store has been processed back to your original payment method. Will reflect in your bank account in 2-3 working days. Log Ref #3112.,legitimate,sms,en,synthetic_reviewed
+"Aapka online shopping refund of Rs 1,500 successfully Example Bank account me credit ho gaya hai. UPI reference: 99482103. Log Ref #3113.",legitimate,sms,hi-en,synthetic_reviewed
+"Received Rs 500 from friend via UPI ID demo_payment@invalid. Updated account balance Rs 6,320. No action required. Log Ref #3114.",legitimate,sms,en,synthetic_reviewed
+"Semester tuition fee payment of Rs 25,000 for Demo College has been successfully recorded. Download official tax invoice from the college portal. Log Ref #3115.",legitimate,email,en,synthetic_reviewed
+URGENT: Example Bank core banking system will undergo scheduled routine maintenance on Sunday from 02:00 AM to 05:00 AM IST. ATM and UPI services will be temporarily unavailable during this window. Log Ref #3116.,legitimate,sms,en,synthetic_reviewed
+Your Example Bank debit card ending 1120 will expire next month. A new EMV chip card has been dispatched via speed post to your registered communication address. No request or payment required. Log Ref #3117.,legitimate,sms,en,synthetic_reviewed
+Reminder: The deadline for submitting your Demo College scholarship application form is tomorrow 5 PM at Room 102. Log Ref #3118.,legitimate,email,en,synthetic_reviewed
+"Aapka electricity bill payment of Rs 1,420 due date kal hai. Disconnection se bachne ke liye official electricity board counter ya verified app se pay karein. Log Ref #3119.",legitimate,sms,hi-en,synthetic_reviewed
+123456 is your secret OTP for login to Example Bank NetBanking. Never share your OTP with anyone including bank staff or callers. OTP valid for 5 minutes. Log Ref #3120.,legitimate,sms,en,synthetic_reviewed
+"Aapka Example Bank login OTP hai 987654. Yeh OTP kisi ke sath share na karein, na hi kisi caller ko batayein. Bank kabhi bhi OTP nahi mangta. Log Ref #3121.",legitimate,sms,hi-en,synthetic_reviewed
+"OTP for your online transaction of Rs 1,499.00 at Demo College bookstore on card ending 4402 is 554321. Do not share OTP with anyone. Log Ref #3122.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank account login OTP 432109. Ee OTP yaru jothegu share madbedi. Bank yavathoo OTP kelolla. Log Ref #3123.,legitimate,sms,kn-en,synthetic_reviewed
+Your OTP for Aadhaar authentication is 881204. Use this to complete your passport verification at the official seva kendra. Valid for 10 minutes. Log Ref #3124.,legitimate,sms,en,synthetic_reviewed
+542910 is your One Time Password (OTP) to reset your Example Bank mobile banking password. Do not disclose it to anyone. Log Ref #3125.,legitimate,sms,en,synthetic_reviewed
+"Dear Customer, your account XX1209 has been credited with Rs 45,000.00 on 25-Sep-2026 by NEFT/Salary from Employer Corp. Available balance: Rs 78,410.20 - Example Bank. Log Ref #3126.",legitimate,sms,en,synthetic_reviewed
+"Example Bank Alert: Rs 350.00 debited from account ending 9012 at Metro Station on 25-Sep. If not done by you, SMS BLOCK to official number or call 1800-000-0000. Log Ref #3127.",legitimate,sms,en,synthetic_reviewed
+"Aapke account se Rs 1,200 debit ho gaya hai grocery store par. Balance check karne ke liye Example Bank official app use karein. Log Ref #3128.",legitimate,sms,hi-en,synthetic_reviewed
+"Nimma account XX4532 inda Rs 2,500 electricity bill payment successfully debited. Current balance Rs 14,200. Example Bank. Log Ref #3129.",legitimate,sms,kn-en,synthetic_reviewed
+"Dear Customer, your monthly statement for Example Bank Savings Account ending in 7721 is now ready in your secure internet banking inbox. Log Ref #3130.",legitimate,email,en,synthetic_reviewed
+"Dear Customer, periodic KYC updation is due for your Example Bank account. Kindly visit your nearest home branch with your original Aadhaar and PAN card or update via the official verified Example Bank mobile application. We never ask for passwords. Log Ref #3131.",legitimate,sms,en,synthetic_reviewed
+"Priy Grahak, RBI guidelines ke anusar aapka periodic KYC update hona baaki hai. Kripya apni nazdiki Example Bank branch me jakar documents jama karein. Kisi anjaan link par click na karein. Log Ref #3132.",legitimate,sms,hi-en,synthetic_reviewed
+"Dear Student, submission of annual scholarship verification documents at Demo College administration counter is scheduled for this Friday. Carry original marksheets. Log Ref #3133.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank branch ge bheti kottu annual KYC documents submit madi antha vinanthi. Yavude suspicious link click madbedi. Log Ref #3134.,legitimate,sms,kn-en,synthetic_reviewed
+"Money Sent: Rs 200.00 paid to Local Grocery Store via UPI from account XX3312. UPI Ref No 6612984120. UPI PIN is required only while sending money, never while receiving. Log Ref #3135.",legitimate,sms,en,synthetic_reviewed
+Refund of Rs 850.00 for returned item on Demo Store has been processed back to your original payment method. Will reflect in your bank account in 2-3 working days. Log Ref #3136.,legitimate,sms,en,synthetic_reviewed
+"Aapka online shopping refund of Rs 1,500 successfully Example Bank account me credit ho gaya hai. UPI reference: 99482103. Log Ref #3137.",legitimate,sms,hi-en,synthetic_reviewed
+"Received Rs 500 from friend via UPI ID demo_payment@invalid. Updated account balance Rs 6,320. No action required. Log Ref #3138.",legitimate,sms,en,synthetic_reviewed
+"Semester tuition fee payment of Rs 25,000 for Demo College has been successfully recorded. Download official tax invoice from the college portal. Log Ref #3139.",legitimate,email,en,synthetic_reviewed
+URGENT: Example Bank core banking system will undergo scheduled routine maintenance on Sunday from 02:00 AM to 05:00 AM IST. ATM and UPI services will be temporarily unavailable during this window. Log Ref #3140.,legitimate,sms,en,synthetic_reviewed
+Your Example Bank debit card ending 1120 will expire next month. A new EMV chip card has been dispatched via speed post to your registered communication address. No request or payment required. Log Ref #3141.,legitimate,sms,en,synthetic_reviewed
+Reminder: The deadline for submitting your Demo College scholarship application form is tomorrow 5 PM at Room 102. Log Ref #3142.,legitimate,email,en,synthetic_reviewed
+"Aapka electricity bill payment of Rs 1,420 due date kal hai. Disconnection se bachne ke liye official electricity board counter ya verified app se pay karein. Log Ref #3143.",legitimate,sms,hi-en,synthetic_reviewed
+123456 is your secret OTP for login to Example Bank NetBanking. Never share your OTP with anyone including bank staff or callers. OTP valid for 5 minutes. Log Ref #3144.,legitimate,sms,en,synthetic_reviewed
+"Aapka Example Bank login OTP hai 987654. Yeh OTP kisi ke sath share na karein, na hi kisi caller ko batayein. Bank kabhi bhi OTP nahi mangta. Log Ref #3145.",legitimate,sms,hi-en,synthetic_reviewed
+"OTP for your online transaction of Rs 1,499.00 at Demo College bookstore on card ending 4402 is 554321. Do not share OTP with anyone. Log Ref #3146.",legitimate,sms,en,synthetic_reviewed
+Nimma Example Bank account login OTP 432109. Ee OTP yaru jothegu share madbedi. Bank yavathoo OTP kelolla. Log Ref #3147.,legitimate,sms,kn-en,synthetic_reviewed
+Your OTP for Aadhaar authentication is 881204. Use this to complete your passport verification at the official seva kendra. Valid for 10 minutes. Log Ref #3148.,legitimate,sms,en,synthetic_reviewed
+542910 is your One Time Password (OTP) to reset your Example Bank mobile banking password. Do not disclose it to anyone. Log Ref #3149.,legitimate,sms,en,synthetic_reviewed
+"Your Sample Courier parcel has arrived at the sorting facility. Track delivery only through the official Sample Courier application.",legitimate,sms,en,team_reviewed
+"Your Sample Courier shipment is scheduled for dispatch tomorrow. Update delivery preferences through the official app.",legitimate,sms,en,team_reviewed
+"Your package reference is available in the official Sample Courier portal. Do not use unknown links for address changes.",legitimate,sms,en,team_reviewed
+"Your delivery is expected between 2 PM and 5 PM tomorrow. Use the official courier app to view tracking updates.",legitimate,sms,en,team_reviewed
+"Your parcel has been delivered successfully. View the delivery confirmation in the official Sample Courier application.",legitimate,sms,en,team_reviewed
+"Example Bank security reminder: Never share OTP, password, UPI PIN, card PIN, or CVV with anyone.",legitimate,sms,en,team_reviewed
+"Example Bank will never ask you to reveal a verification code through a phone call or message.",legitimate,sms,en,team_reviewed
+"Your Example Bank account statement is ready. Open the official banking application to view it securely.",legitimate,sms,en,team_reviewed
+"Your account profile was updated successfully. Review recent activity through the official Example Bank app.",legitimate,sms,en,team_reviewed
+"Example Bank reminder: For account support use the contact option inside the official mobile app.",legitimate,sms,en,team_reviewed
+"Your debit card request has been received. Track its status only through the official Example Bank application.",legitimate,sms,en,team_reviewed
+"Example Bank has updated its privacy policy. Read the notice through the official website or mobile app.",legitimate,email,en,team_reviewed
+"UPI safety reminder: Check the merchant name and payment amount before entering your UPI PIN.",legitimate,sms,en,team_reviewed
+"Never enter your UPI PIN to receive money. A UPI PIN is used only to approve a payment from your account.",legitimate,sms,en,team_reviewed
+"Your refund has been processed and will be credited automatically to your original payment method.",legitimate,email,en,team_reviewed
+"Your payment was completed successfully. Check the merchant name and transaction amount in your official payment app.",legitimate,sms,en,team_reviewed
+"Your payment receipt is available in the official Example Pay application.",legitimate,sms,en,team_reviewed
+"Example Pay security notice: Do not approve collect requests from unknown people or merchants.",legitimate,sms,en,team_reviewed
+"Your monthly electricity bill is available in the official utility application. Pay only through the approved payment portal.",legitimate,sms,en,team_reviewed
+"Your water-bill receipt can be downloaded from the official utility website.",legitimate,sms,en,team_reviewed
+"Test Telecom reminder: Your monthly bill is ready. View or pay it through the official Test Telecom application.",legitimate,sms,en,team_reviewed
+"Your Test Telecom recharge was successful. Check your plan details in the official mobile app.",legitimate,sms,en,team_reviewed
+"Test Telecom security advice: Never share an OTP or SIM-verification code with anyone.",legitimate,sms,en,team_reviewed
+"Your service request has been registered. Follow updates through the official Test Telecom support page.",legitimate,sms,en,team_reviewed
+"Demo College notice: Your examination timetable is available through the official student portal.",legitimate,email,en,team_reviewed
+"Demo College reminder: Semester-fee receipts are available after payment through the official student portal.",legitimate,email,en,team_reviewed
+"Your scholarship application status can be checked through the official Demo College scholarship page.",legitimate,email,en,team_reviewed
+"Demo College security notice: The college will not ask students to send OTPs or UPI PINs through messages.",legitimate,email,en,team_reviewed
+"Your course-registration request has been received. Review the status in the official student portal.",legitimate,email,en,team_reviewed
+"Your library membership is renewed. View due dates through the official Demo College portal.",legitimate,email,en,team_reviewed
+"Your clinic appointment is confirmed for tomorrow at 3 PM. Contact the clinic using the number listed on its official website for changes.",legitimate,sms,en,team_reviewed
+"Your diagnostic report is ready. Access it using the official clinic application.",legitimate,sms,en,team_reviewed
+"Your insurance policy renewal reminder is available in the official customer portal.",legitimate,email,en,team_reviewed
+"Your municipal-service payment receipt is available through the official citizen-services portal.",legitimate,sms,en,team_reviewed
+"Security awareness message: Do not share passwords, PINs, OTPs, or recovery codes with anyone claiming to help you.",legitimate,sms,en,team_reviewed
+"Online safety reminder: Use a separately found official website or app when you need customer support.",legitimate,sms,en,team_reviewed
+"Example Bank safety message: If someone asks you to install a screen-sharing app for banking support, end the call and contact the bank through the official app.",legitimate,sms,en,team_reviewed
+"Demo College digital-safety message: Verify scholarship notices through the official student portal before making any payment.",legitimate,email,en,team_reviewed
+"Sample Courier safety message: We do not ask customers to share OTPs or payment PINs for delivery confirmation.",legitimate,sms,en,team_reviewed
+"Test Telecom safety notice: Never install an unknown support app after receiving an unsolicited call.",legitimate,sms,en,team_reviewed
+"ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಸ್ಟೇಟ್ಮೆಂಟ್ ಅಧಿಕೃತ Example Bank ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಲಭ್ಯವಿದೆ. OTP ಅನ್ನು ಯಾರೊಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ.",legitimate,sms,kn,team_reviewed
+"UPI ಸುರಕ್ಷತಾ ಸೂಚನೆ: ಪಾವತಿ ಮಾಡುವ ಮೊದಲು ವ್ಯಾಪಾರಿಯ ಹೆಸರು ಮತ್ತು ಮೊತ್ತವನ್ನು ಪರಿಶೀಲಿಸಿ.",legitimate,sms,kn,team_reviewed
+"ನಿಮ್ಮ Demo College ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ ಅಧಿಕೃತ ವಿದ್ಯಾರ್ಥಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಲಭ್ಯವಿದೆ.",legitimate,email,kn,team_reviewed
+"ನಿಮ್ಮ Sample Courier ಪಾರ್ಸೆಲ್ ಸಾಗಣೆಯಲ್ಲಿದೆ. ಅಧಿಕೃತ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಟ್ರ್ಯಾಕಿಂಗ್ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.",legitimate,sms,kn,team_reviewed
+"Aapka Example Bank statement official app mein available hai. OTP ya PIN kisi ke saath share mat kijiye.",legitimate,sms,hinglish,team_reviewed
+"UPI safety reminder: Kisi unknown collect request ko approve mat kijiye. Merchant name aur amount check kijiye.",legitimate,sms,hinglish,team_reviewed
+"Demo College notice: Scholarship status official student portal par check kijiye. Message ke payment link par trust mat kijiye.",legitimate,email,hinglish,team_reviewed
+"Test Telecom reminder: Apna plan aur bill official app mein check kijiye. Kisi caller ko verification code mat batayiye.",legitimate,sms,hinglish,team_reviewed
+"Your government-service application was received successfully. Track progress through the official citizen portal.",legitimate,sms,en,team_reviewed
+"Your passport appointment reminder is available in the official application portal. Do not share personal documents with unknown callers.",legitimate,sms,en,team_reviewed

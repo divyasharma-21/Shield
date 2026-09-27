@@ -1,0 +1,10 @@
+class,precision,recall,f1_score,support
+legitimate,1.0,1.0,1.0,40
+phishing,1.0,1.0,1.0,2
+payment_or_credential_scam,1.0,1.0,1.0,6
+authority_impersonation_scam,1.0,1.0,1.0,10
+remote_access_scam,1.0,1.0,1.0,10
+UPI_QR_scam,1.0,1.0,1.0,7
+fake_payment_scam,1.0,1.0,1.0,7
+other_suspicious,1.0,1.0,1.0,2
+WEIGHTED_AVG,1.0,1.0,1.0,84

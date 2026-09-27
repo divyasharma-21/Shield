@@ -1,0 +1,29 @@
+text,label,channel,language,source,expected_binary_label,predicted_binary_label,prediction_confidence,correct
+Your savings account has unusual activity. Please verify using the official Example Bank app only. We will never ask for your PIN or OTP.,legitimate,sms,en,challenge_set,legitimate,legitimate,0.6889057299346976,True
+Your electricity payment receipt is ready. Sign in through the official utility application to view it.,legitimate,sms,en,challenge_set,legitimate,legitimate,0.7800994496666782,True
+Your delivery has reached the local hub. Track it through the Sample Courier mobile app.,legitimate,sms,en,challenge_set,legitimate,legitimate,0.685431705154239,True
+Your examination hall ticket can be downloaded from the official Demo College student portal.,legitimate,email,en,challenge_set,legitimate,legitimate,0.7666036049640313,True
+"Security notice: Never disclose OTP, UPI PIN, passwords, or card details to anyone claiming to help you.",legitimate,sms,en,challenge_set,legitimate,legitimate,0.5588489175366922,True
+ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಸ್ಟೇಟ್ಮೆಂಟ್ ಅಧಿಕೃತ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಲಭ್ಯವಿದೆ. OTP ಅನ್ನು ಯಾರೊಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ.,legitimate,sms,kn,challenge_set,legitimate,legitimate,0.701530320927627,True
+Your Example Bank profile needs verification. Reply with the code sent to your phone to avoid account closure.,payment_or_credential_scam,sms,en,challenge_set,suspicious,suspicious,0.6379808400563362,True
+Your account access will end this evening. Share the verification code now to keep it active.,payment_or_credential_scam,call,en,challenge_set,suspicious,suspicious,0.526451736234566,True
+Please provide your login password so our support team can restore your account.,payment_or_credential_scam,call,en,challenge_set,suspicious,suspicious,0.5079358229390687,True
+Your KYC review failed. Tell us the code received on your device to complete the process.,payment_or_credential_scam,whatsapp,en,challenge_set,suspicious,suspicious,0.5560899214422006,True
+Aapka account verification pending hai. Abhi code bataiye warna service band ho jayegi.,payment_or_credential_scam,call,hinglish,challenge_set,suspicious,suspicious,0.667769205543384,True
+An investigation has been opened in your name. Remain connected while we complete the verification procedure.,authority_impersonation_scam,call,en,challenge_set,suspicious,legitimate,0.5360455791524181,False
+Your identity document has been connected to a legal complaint. Move funds for temporary verification.,authority_impersonation_scam,call,en,challenge_set,suspicious,suspicious,0.6278535443568036,True
+This is Sample Cyber Office. You must stay on the call while your case is reviewed.,authority_impersonation_scam,call,en,challenge_set,suspicious,suspicious,0.6328997163466814,True
+Aapke naam par case register hua hai. Call disconnect mat kijiye aur kisi ko mat batayiye.,authority_impersonation_scam,call,hinglish,challenge_set,suspicious,suspicious,0.6334181016657747,True
+ನಿಮ್ಮ ಗುರುತಿನ ದಾಖಲೆ ತಪ್ಪಾಗಿ ಬಳಸಲಾಗಿದೆ. ಕರೆ ಕಡಿತಗೊಳಿಸಬೇಡಿ.,authority_impersonation_scam,call,kn,challenge_set,suspicious,legitimate,0.5666738671897094,False
+Download ScreenHelpDemo so I can inspect the error in your payment application.,remote_access_scam,call,en,challenge_set,suspicious,legitimate,0.6707299579442574,False
+Open SupportDemo and allow it to view your display so I can fix the transaction issue.,remote_access_scam,call,en,challenge_set,suspicious,legitimate,0.6254655875757756,False
+Install RemoteAssistDemo from the link I sent to complete account support.,remote_access_scam,whatsapp,en,challenge_set,suspicious,suspicious,0.5769951359157887,True
+Please activate the accessibility feature in SupportDemo so our agent can guide you.,remote_access_scam,call,en,challenge_set,suspicious,legitimate,0.5564947494737078,False
+"Your refund of ₹2,000 is pending. Scan the code and enter your UPI PIN to receive it.",UPI_QR_scam,sms,en,challenge_set,suspicious,suspicious,0.6539443725183588,True
+Accept the payment collection request to claim your reward amount.,UPI_QR_scam,whatsapp,en,challenge_set,suspicious,suspicious,0.6264593375023789,True
+Use this QR image for refund verification and approve the payment request.,UPI_QR_scam,sms,en,challenge_set,suspicious,legitimate,0.5844536461900003,False
+Cashback is waiting. Open the QR payment request and confirm it immediately.,UPI_QR_scam,whatsapp,en,challenge_set,suspicious,legitimate,0.6033935940362241,False
+Your scholarship benefit is approved. Submit a small processing amount to activate the release.,fake_payment_scam,whatsapp,en,challenge_set,suspicious,suspicious,0.5021573012634406,True
+Your parcel is held for an additional handling payment. Pay the service amount now.,fake_payment_scam,sms,en,challenge_set,suspicious,suspicious,0.5209379853561974,True
+Complete the registration payment now to unlock your selected internship offer.,fake_payment_scam,email,en,challenge_set,suspicious,suspicious,0.5787916701052847,True
+Pay the document-verification charge before the stated deadline to receive your grant.,fake_payment_scam,whatsapp,en,challenge_set,suspicious,suspicious,0.584884704181935,True

@@ -1,0 +1,33 @@
+{
+  "model_name": "sentrymesh_messageguard_v5_word_char_logreg",
+  "version": "5",
+  "samples": 12196,
+  "train_samples": 9756,
+  "test_samples": 2440,
+  "class_distribution": {
+    "legitimate": 6098,
+    "suspicious": 6098
+  },
+  "accuracy": 0.975,
+  "suspicious_precision": 0.9793217535153019,
+  "suspicious_recall": 0.9704918032786886,
+  "suspicious_f1": 0.9748867846850556,
+  "roc_auc": 0.9959271701155603,
+  "threshold": 0.6200000000000003,
+  "confusion_matrix": [
+    [
+      1195,
+      25
+    ],
+    [
+      36,
+      1184
+    ]
+  ],
+  "sources": [
+    "SentryMesh existing curated datasets",
+    "UCI SMS Spam Collection",
+    "SentryMesh real email corpus"
+  ],
+  "method": "word and character TF-IDF + class-balanced LogisticRegression; duplicate text removed; stratified holdout"
+}

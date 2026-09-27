@@ -1,0 +1,14 @@
+{
+  "messageguard_v5": {
+    "real_sources_used": [
+      {"name":"UCI SMS Spam Collection","local":"data/raw/uci_sms_processed.csv","license":"CC BY 4.0","role":"real SMS positive/negative training examples"},
+      {"name":"SentryMesh real email corpus","local":"data/raw/sentrymesh_real_email.csv","license":"project/source metadata retained in prior package","role":"real email training sample; raw corpus may be omitted from redistribution package due size/restrictions"}
+    ],
+    "project_sources": ["data/processed/sentrymesh_binary_v4.csv","data/raw/sentrymesh_additional_classes.csv","data/raw/sentrymesh_high_harm_fraud_v2.csv","data/raw/sentrymesh_legitimate_indian.csv","data/raw/sentrymesh_call_scams.csv","data/raw/sentrymesh_upi_qr_scams.csv","data/raw/sentrymesh_multilingual_remote_access_v4.csv"]
+  },
+  "parentguardian_v1": {
+    "sources": ["data/raw/sentrymesh_tactics.csv","real benign SMS/email examples","synthetic safety augmentation"],
+    "warning":"Synthetic augmentation is explicitly labeled and is not a substitute for independent real-world safety evaluation."
+  },
+  "webguard": {"name":"UCI PhiUSIIL Phishing URL Dataset","license":"CC BY 4.0","role":"trained webpage/URL model"}
+}

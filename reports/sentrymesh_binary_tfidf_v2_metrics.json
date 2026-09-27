@@ -1,0 +1,15 @@
+{
+  "model_name": "sentrymesh_binary_tfidf_v2",
+  "dataset_path": "D:\\SentryMesh\\sentrymesh\\data\\processed\\sentrymesh_binary_v2.csv",
+  "total_samples": 1000,
+  "training_samples": 800,
+  "testing_samples": 200,
+  "accuracy": 0.925,
+  "weighted_precision": 0.925042504250425,
+  "weighted_recall": 0.925,
+  "weighted_f1": 0.9249981249531238,
+  "labels": [
+    "legitimate",
+    "suspicious"
+  ]
+}

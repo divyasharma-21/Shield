@@ -1,0 +1,101 @@
+id,text,label,channel,language,source,source_reference,reviewer,holdout_lock_date
+001,ExampleBank: Your monthly statement is ready in the official app. No action is required.,legitimate,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+002,Campus library has extended return hours until Friday. Carry your student ID.,legitimate,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+003,DemoDelivery: your parcel is scheduled for tomorrow afternoon.,legitimate,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+004,Aapka electricity bill receive ho gaya hai; receipt Payments section mein hai.,legitimate,WhatsApp,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+005,The school office is open Saturday for fee-receipt collection.,legitimate,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+006,ExampleBank maintenance may affect balance refresh overnight.,legitimate,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+007,ನಿಮ್ಮ DemoStore ಆದೇಶ ಪ್ಯಾಕ್ ಆಗಿದೆ; delivery update app ನಲ್ಲಿ ಇದೆ.,legitimate,WhatsApp,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+008,Support: your invoice is available in the DemoCloud dashboard.,legitimate,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+009,DemoCinema received your ticket payment; booking details are in the app.,legitimate,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+010,"प्रिय विद्यार्थी, कल की प्रयोगशाला कक्षा सामान्य समय पर होगी।",legitimate,WhatsApp,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+011,ExampleBank updated its privacy notice; review it in the official app.,legitimate,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+012,DemoRide receipt: your completed trip appears in ride history.,legitimate,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+013,ನಿಮ್ಮ scholarship form review ಆಗುತ್ತಿದೆ; portal ನಲ್ಲಿ updates ಬರುತ್ತವೆ.,legitimate,WhatsApp,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+014,DemoSupport created case DEMO-CASE-ALPHA for your warranty query.,legitimate,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+015,Canteen wallet recharge was cancelled because payment was not completed.,legitimate,SMS,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+016,DemoUniversity timetable changed; check the student portal.,legitimate,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+017,ExampleBank: a branch cheque is under routine clearing.,legitimate,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+018,ಡೆಮೊ ಮೆಡಿಕಲ್ ಸೆಂಟರ್: ನಿಮ್ಮ appointment ನಾಳೆ ಇದೆ.,legitimate,SMS,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+019,DemoPay merchant refund has been initiated through normal processing.,legitimate,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+020,आपकी पुस्तकालय सदस्यता अगले महीने नवीनीकरण के लिए आएगी।,legitimate,SMS,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+021,Delivery agent confirmed the package was handed to building reception.,legitimate,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+022,DemoHost renewal receipt is available under Billing History.,legitimate,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+023,Aaj ka class test regular classroom mein hi hoga.,legitimate,WhatsApp,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+024,ExampleBank: bring photo ID for an in-person address update.,legitimate,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+025,ನಿಮ್ಮ DemoGrocer order final invoice app ನಲ್ಲಿ ನೋಡಬಹುದು.,legitimate,WhatsApp,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+026,DemoSupport closed your resolved help-center ticket.,legitimate,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+027,College cafeteria QR stand is unavailable; use the cashier counter.,legitimate,QR/payment,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+028,आपके DemoTransit पास का नवीनीकरण सफल रहा।,legitimate,SMS,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+029,DemoWorkshop: bring your repair collection slip to the counter.,legitimate,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+030,ExampleBank: your official-app card preference update was saved.,legitimate,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+031,National Records Desk: a complaint is filed under your name; pay the officer now to avoid detention.,authority_impersonation_scam,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+032,सरकारी जांच विभाग बोल रहा है; मामला बंद करने के लिए private fee भेजें।,authority_impersonation_scam,call-transcript,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+033,Cyber Enforcement says internet access will end unless you settle an alleged case.,authority_impersonation_scam,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+034,Tax Compliance Office file freeze रोकने के लिए deposit माँगता है।,authority_impersonation_scam,call-transcript,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+035,Court registry says keep this secret and make a clearance payment.,authority_impersonation_scam,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+036,Customs parcel case close करने के लिए inspector को payment करें।,authority_impersonation_scam,call-transcript,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+037,Digital Safety Cell asks you to join a video review and follow payment instructions.,authority_impersonation_scam,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+038,पहचान पत्र के मामले में जुर्माने से बचने के लिए बैंक विवरण भेजें।,authority_impersonation_scam,SMS,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+039,Immigration Review Unit demands a refundable verification payment.,authority_impersonation_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+040,Police helpdesk says move funds to a safe government wallet.,authority_impersonation_scam,call-transcript,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+041,ರಾಜ್ಯ ತನಿಖಾ ಕಚೇರಿ complaint ನಿಲ್ಲಿಸಲು QR ಗೆ ಹಣ ಕೇಳುತ್ತದೆ.,authority_impersonation_scam,WhatsApp,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+042,Parcel Authority says a sealed shipment needs legal-clearance transfer.,authority_impersonation_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+043,Tax identity audit claims vouchers are required to cancel action.,authority_impersonation_scam,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+044,नगर सुरक्षा शाखा कथित वारंट रोकने के लिए राशि मांगती है।,authority_impersonation_scam,WhatsApp,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+045,Case manager says transferring savings to a safe wallet is mandatory.,authority_impersonation_scam,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+046,DemoNet technician asks you to install screen-sharing software for a router repair.,remote_access_scam,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+047,Laptop virus के नाम पर remote-control app install करने को कहा जाता है।,remote_access_scam,call-transcript,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+048,Warranty caller says a critical fault requires a screen connection.,remote_access_scam,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+049,dangerous files हटाने के लिए technician remote access माँगता है।,remote_access_scam,call-transcript,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+050,Support says it must view your banking-app screen to reverse a charge.,remote_access_scam,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+051,फोन service center caller says complaint closes only after screen sharing.,remote_access_scam,call-transcript,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+052,Security desk asks for unrestricted mouse and keyboard access.,remote_access_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+053,Refund ke liye DemoAssist install karke agent ko screen dekhne do.,remote_access_scam,WhatsApp,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+054,Broadband mismatch message requests a diagnostic viewer download.,remote_access_scam,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+055,DemoPay refund release ಮಾಡಲು support app install ಮಾಡಿ ಎಂದು ಕೇಳುತ್ತದೆ.,remote_access_scam,WhatsApp,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+056,Software caller insists a remote session will stop a subscription renewal.,remote_access_scam,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+057,Cashback message asks you to open remote desktop with an officer.,remote_access_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+058,बिजली remote fault के लिए बताए गए ऐप को install करने को कहा जाता है।,remote_access_scam,SMS,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+059,Marketplace support requests a live screen inspection via remote viewer.,remote_access_scam,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+060,Antivirus cleanup caller asks you to hand over device control.,remote_access_scam,call-transcript,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+061,Seller says this QR receives your book payment; scan it to collect money.,UPI_QR_scam,QR/payment,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+062,Refund लेने के लिए attached QR scan करके payment request approve करें।,UPI_QR_scam,WhatsApp,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+063,Prize ಹಣ ಪಡೆಯಲು QR scan ಮಾಡಿ ಎಂದು sender ಹೇಳುತ್ತಾನೆ.,UPI_QR_scam,WhatsApp,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+064,Rental owner says this collect-money QR returns your deposit.,UPI_QR_scam,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+065,कुर्सी खरीदने वाला पैसा पाने के लिए QR scan करने का दबाव डालता है।,UPI_QR_scam,WhatsApp,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+066,Buyer says its business account can pay only through a QR request.,UPI_QR_scam,QR/payment,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+067,Courier refund asks you to scan a QR and confirm a debit prompt.,UPI_QR_scam,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+068,Scholarship processing amount receive करने के लिए QR approve करने को कहा जाता है।,UPI_QR_scam,WhatsApp,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+069,Order refund message QR scan ಮಾಡಿ request accept ಮಾಡಲು ಹೇಳುತ್ತದೆ.,UPI_QR_scam,SMS,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+070,Caller calls the QR a salary-credit code and says ignore app warnings.,UPI_QR_scam,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+071,Seller कहता है QR scan के बाद authorization मंजूर करें।,UPI_QR_scam,QR/payment,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+072,Event refund desk says its QR works once and creates urgency.,UPI_QR_scam,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+073,Marketplace buyer says receive money के लिए UPI PIN डालना होगा।,UPI_QR_scam,SMS,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+074,Hostel refund verification badge is actually a QR to scan.,UPI_QR_scam,QR/payment,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+075,Insurance agent says scan QR and choose Pay to release a claim.,UPI_QR_scam,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+076,ExampleBank asks you to reply with your password and authenticator secret.,payment_or_credential_scam,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+077,DemoMail says send your password or messages will be erased.,payment_or_credential_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+078,Payment account block रोकने के लिए UPI PIN और passcode भेजें।,payment_or_credential_scam,WhatsApp,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+079,Bank profile verification asks for card number and PIN in a reply.,payment_or_credential_scam,SMS,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+080,कार्ड बंद होने से रोकने के लिए net-banking password ईमेल करें।,payment_or_credential_scam,email,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+081,DemoStream asks for full card information through WhatsApp.,payment_or_credential_scam,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+082,Loyalty bonus agent requests your payment-app PIN.,payment_or_credential_scam,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+083,College portal asks for banking password and payment credentials.,payment_or_credential_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+084,Courier issue sender asks for card expiry and security code in chat.,payment_or_credential_scam,WhatsApp,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+085,DemoPay wallet unlock ಮಾಡಲು secret passcode share ಮಾಡಿ ಎಂದು ಹೇಳುತ್ತದೆ.,payment_or_credential_scam,call-transcript,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+086,ExampleBank message asks you to type debit-card PIN into a reply form.,payment_or_credential_scam,SMS,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+087,Refund के लिए payment app unlock pattern बताने को कहा जाता है।,payment_or_credential_scam,call-transcript,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+088,DemoTax email requests bank username password and card details.,payment_or_credential_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+089,Seller asks for the secret payment-app code to cancel an order.,payment_or_credential_scam,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+090,Suspicious login caller demands banking password and card PIN.,payment_or_credential_scam,call-transcript,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+091,Marketplace buyer sends a payment screenshot and demands an overpayment refund before funds appear.,fake_payment_scam,WhatsApp,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+092,"Buyer edited confirmation image भेजकर refund मांगता है, but balance shows no credit.",fake_payment_scam,WhatsApp,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+093,Buyer payment receipt screenshot ಕಳುಹಿಸಿ item ತಕ್ಷಣ ಕೊಡಲು ಒತ್ತಾಯಿಸುತ್ತಾನೆ.,fake_payment_scam,WhatsApp,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+094,Caller says a transfer needs a release charge before the larger amount arrives.,fake_payment_scam,call-transcript,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+095,खरीदार नकली payment confirmation भेजकर पहले वस्तु देने को कहता है।,fake_payment_scam,WhatsApp,Hindi,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+096,Freelance client sends a fabricated remittance notice and seeks reimbursement.,fake_payment_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+097,Customer shows a successful-looking screen but refuses to wait for merchant-app confirmation.,fake_payment_scam,QR/payment,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+098,Buyer says payment twice हुआ है और पहले refund भेजने को कहता है।,fake_payment_scam,SMS,Hinglish,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+099,Guest forwards a forged reservation receipt and seeks cash reimbursement.,fake_payment_scam,email,English,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25
+100,ನಕಲಿ transfer alert ತೋರಿಸಿ item ಕಳುಹಿಸಲು buyer ತುರ್ತು ಮಾಡುತ್ತಾನೆ.,fake_payment_scam,WhatsApp,Kannada,independent_synthetic_holdout,isolated_ai_generation,independent_ai_curator,2026-09-25

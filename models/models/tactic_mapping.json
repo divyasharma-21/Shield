@@ -1,0 +1,16 @@
+{
+  "tactics": [
+    "authority_impersonation",
+    "urgency",
+    "fear_or_threat",
+    "secrecy",
+    "isolation",
+    "payment_request",
+    "otp_request",
+    "credential_request",
+    "remote_access_request",
+    "screen_share_request",
+    "upi_collect_request"
+  ],
+  "description": "Learned multi-label manipulation indicators for explanation synthesis"
+}

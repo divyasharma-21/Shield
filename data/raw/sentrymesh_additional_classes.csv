@@ -1,0 +1,17 @@
+text,label,channel,language,source
+"Your Example Bank account requires verification. Visit http://invalid.example/verify and enter your username and password to avoid account suspension.",phishing,sms,en,synthetic_reviewed
+"Your KYC verification is incomplete. Open http://invalid.example/kyc and submit your card number and CVV to keep your account active.",phishing,sms,en,synthetic_reviewed
+"Your email storage is full. Sign in at http://invalid.example/mailbox and confirm your password to prevent incoming messages from being blocked.",phishing,sms,en,synthetic_reviewed
+"Your scholarship application needs immediate verification. Upload your login credentials at http://invalid.example/scholarship before the deadline.",phishing,sms,en,synthetic_reviewed
+"Aapka bank KYC pending hai. Account active rakhne ke liye http://invalid.example/kyc par login karke password submit karein.",phishing,sms,hi-en,synthetic_reviewed
+"Your delivery could not be completed. Confirm your card details at http://invalid.example/delivery to reschedule the shipment.",phishing,sms,en,synthetic_reviewed
+"Your university portal session has expired. Log in through http://invalid.example/student and confirm your password to restore access.",phishing,sms,en,synthetic_reviewed
+"Your reward account needs verification. Enter your card number and security details at http://invalid.example/reward to claim the benefit.",phishing,sms,en,synthetic_reviewed
+"Important notice: an unusual activity report is associated with your profile. Reply with your registered details so our team can review it.",other_suspicious,sms,en,synthetic_reviewed
+"Your account has been selected for a routine security review. Please contact the verification desk using the number provided in this message.",other_suspicious,sms,en,synthetic_reviewed
+"Congratulations on your eligibility for a special customer benefit. Further instructions will be shared after your profile is reviewed.",other_suspicious,sms,en,synthetic_reviewed
+"Your mobile service profile requires attention. Please review your account information through the official customer application.",other_suspicious,sms,en,synthetic_reviewed
+"Dear customer, a service request has been opened under your account. Contact support if you do not recognize this request.",other_suspicious,sms,en,synthetic_reviewed
+"Aapke account ke liye ek security review request create hui hai. Agar aapne request nahi ki hai to official support se contact karein.",other_suspicious,sms,hi-en,synthetic_reviewed
+"Your profile has been marked for an account review. Please keep your registered information available when contacting support.",other_suspicious,sms,en,synthetic_reviewed
+"Your application status requires an additional review. Please check the official portal for further information.",other_suspicious,sms,en,synthetic_reviewed

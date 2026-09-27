@@ -1,0 +1,29 @@
+{
+  "evaluation_name": "sentrymesh_final_holdout_v1_v4",
+  "model_path": "D:\\SentryMesh\\sentrymesh\\models\\sentrymesh_binary_tfidf_v4.joblib",
+  "training_data_path": "D:\\SentryMesh\\sentrymesh\\data\\processed\\sentrymesh_binary_v4.csv",
+  "final_holdout_path": "D:\\SentryMesh\\sentrymesh\\data\\final_holdout\\sentrymesh_final_holdout_v1.csv",
+  "total_examples": 100,
+  "selected_suspicious_threshold": 0.4,
+  "exact_training_text_matches": 0,
+  "accuracy": 0.86,
+  "weighted_precision": 0.8571725571725572,
+  "weighted_recall": 0.86,
+  "weighted_f1": 0.8569444444444444,
+  "false_negatives": 5,
+  "false_positives": 9,
+  "category_distribution": {
+    "legitimate": 30,
+    "authority_impersonation_scam": 15,
+    "remote_access_scam": 15,
+    "UPI_QR_scam": 15,
+    "payment_or_credential_scam": 15,
+    "fake_payment_scam": 10
+  },
+  "safety_level_distribution": {
+    "suspicious_needs_verification": 74,
+    "uncertain_needs_verification": 24,
+    "no_strong_risk_signal": 2
+  },
+  "evaluation_integrity_note": "The V4 model and 0.40 threshold were frozen before this final-holdout evaluation. No exact normalized text overlap with the V4 processed training dataset was detected."
+}

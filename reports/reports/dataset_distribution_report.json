@@ -1,0 +1,48 @@
+{
+  "total_records": 400,
+  "train_count": 278,
+  "val_count": 58,
+  "test_count": 64,
+  "class_distribution_overall": {
+    "authority_impersonation_scam": 48,
+    "remote_access_scam": 52,
+    "UPI_QR_scam": 35,
+    "fake_payment_scam": 35,
+    "payment_or_credential_scam": 30,
+    "legitimate": 200
+  },
+  "class_distribution_train": {
+    "fake_payment_scam": 24,
+    "legitimate": 140,
+    "remote_access_scam": 36,
+    "payment_or_credential_scam": 21,
+    "authority_impersonation_scam": 33,
+    "UPI_QR_scam": 24
+  },
+  "class_distribution_test": {
+    "legitimate": 30,
+    "remote_access_scam": 9,
+    "payment_or_credential_scam": 5,
+    "fake_payment_scam": 6,
+    "authority_impersonation_scam": 8,
+    "UPI_QR_scam": 6
+  },
+  "channel_distribution": {
+    "call": 107,
+    "sms": 222,
+    "whatsapp": 21,
+    "qr": 14,
+    "email": 36
+  },
+  "language_distribution": {
+    "en": 243,
+    "hi-en": 90,
+    "kn-en": 59,
+    "kn": 4,
+    "hinglish": 4
+  },
+  "source_distribution": {
+    "synthetic_reviewed": 350,
+    "team_reviewed": 50
+  }
+}

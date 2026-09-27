@@ -1,0 +1,128 @@
+{
+  "messageguard": [
+    {
+      "id": "benign_family",
+      "decision": "legitimate",
+      "risk_score": 0.0001,
+      "tactics": []
+    },
+    {
+      "id": "phishing_sbi",
+      "decision": "suspicious",
+      "risk_score": 0.9859,
+      "tactics": []
+    },
+    {
+      "id": "payment_scam",
+      "decision": "suspicious",
+      "risk_score": 0.9999,
+      "tactics": []
+    },
+    {
+      "id": "otp_safe",
+      "decision": "legitimate",
+      "risk_score": 0.3493,
+      "tactics": []
+    },
+    {
+      "id": "otp_request",
+      "decision": "suspicious",
+      "risk_score": 0.9998,
+      "tactics": []
+    }
+  ],
+  "parentguardian": [
+    {
+      "id": "coercion_image",
+      "decision": "elevated",
+      "risk_score": 0.4901,
+      "category": "unsafe_image_request"
+    },
+    {
+      "id": "harassment",
+      "decision": "elevated",
+      "risk_score": 0.7483,
+      "category": "harassment"
+    },
+    {
+      "id": "threat",
+      "decision": "high",
+      "risk_score": 0.7913,
+      "category": "threat"
+    },
+    {
+      "id": "benign",
+      "decision": "low_signal",
+      "risk_score": 0.1077,
+      "category": "benign"
+    }
+  ],
+  "appguard": [
+    {
+      "id": "AnyDesk",
+      "status": "analyzed",
+      "risk_level": "low",
+      "risk_score": 0.3,
+      "package": "com.anydesk.anydeskandroid"
+    },
+    {
+      "id": "WhatsApp",
+      "status": "analyzed",
+      "risk_level": "low",
+      "risk_score": 0.0,
+      "package": "com.whatsapp"
+    },
+    {
+      "id": "XYZSecureBankApp12345",
+      "status": "insufficient_metadata",
+      "risk_level": "unknown",
+      "risk_score": null,
+      "package": null
+    }
+  ],
+  "webguard": [
+    {
+      "url": "https://www.sbi.co.in",
+      "risk_level": "none",
+      "risk_score": 0,
+      "signals": []
+    },
+    {
+      "url": "https://www.paypal.com",
+      "risk_level": "none",
+      "risk_score": 0,
+      "signals": []
+    },
+    {
+      "url": "http://login-paypal-verify-account.xyz/signin",
+      "risk_level": "high",
+      "risk_score": 0.61,
+      "signals": [
+        "The URL uses HTTP instead of HTTPS.",
+        "The domain contains a known brand name but does not match its known official domain (paypal).",
+        "The domain uses a TLD that can warrant additional scrutiny (.xyz).",
+        "The URL contains credential, account, payment, or verification language."
+      ]
+    },
+    {
+      "url": "https://sbi-account-verify-login.xyz/secure/update",
+      "risk_level": "medium",
+      "risk_score": 0.54,
+      "signals": [
+        "The domain contains a known brand name but does not match its known official domain (sbi).",
+        "The domain uses a TLD that can warrant additional scrutiny (.xyz).",
+        "The URL contains credential, account, payment, or verification language."
+      ]
+    },
+    {
+      "url": "https://google.com@evil-example.xyz/login",
+      "risk_level": "medium",
+      "risk_score": 0.39,
+      "signals": [
+        "The URL contains user-information syntax before the @ separator; this can obscure the actual destination host.",
+        "The domain uses a TLD that can warrant additional scrutiny (.xyz).",
+        "The URL contains credential, account, payment, or verification language."
+      ]
+    }
+  ]
+}

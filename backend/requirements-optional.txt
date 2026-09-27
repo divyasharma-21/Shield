@@ -1,0 +1,6 @@
+# Optional speech-to-text for audio transcription
+faster-whisper>=1.0.0
+
+# Optional voice anti-spoofing / audio deepfake detection (when configured)
+# torchaudio>=2.2.0
+# torch>=2.2.0

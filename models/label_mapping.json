@@ -1,0 +1,32 @@
+{
+  "classes": [
+    "legitimate",
+    "phishing",
+    "payment_or_credential_scam",
+    "authority_impersonation_scam",
+    "remote_access_scam",
+    "UPI_QR_scam",
+    "fake_payment_scam",
+    "other_suspicious"
+  ],
+  "label_to_id": {
+    "legitimate": 0,
+    "phishing": 1,
+    "payment_or_credential_scam": 2,
+    "authority_impersonation_scam": 3,
+    "remote_access_scam": 4,
+    "UPI_QR_scam": 5,
+    "fake_payment_scam": 6,
+    "other_suspicious": 7
+  },
+  "id_to_label": {
+    "0": "legitimate",
+    "1": "phishing",
+    "2": "payment_or_credential_scam",
+    "3": "authority_impersonation_scam",
+    "4": "remote_access_scam",
+    "5": "UPI_QR_scam",
+    "6": "fake_payment_scam",
+    "7": "other_suspicious"
+  }
+}
